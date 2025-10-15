@@ -5,3 +5,4 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 sophgo/tpuc_dev:v3.3
+sophgo/tpuc_dev:v3.4
